@@ -11,17 +11,17 @@ I will only update the repo once a few days cause i finish doing the stuff for t
 ## Main Keyboard Schematic
   <tr>
     <td>
-      <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ee833ebf-61fe-4021-a056-13ff3f0ff43e" />
+      <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ee833ebf-61fe-4021-a056-13ff3f0ff43e" />  
       MCU, USB-C receptacle, 3.3V convertor, LED 5V controller, crystal osc
     </td>
     <td>
-      <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6bcbd71c-39ab-4d62-8cf3-0138fd5fd274" />
+      <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6bcbd71c-39ab-4d62-8cf3-0138fd5fd274" />  
       Switch matrix
     </td>
   </tr>
   <tr>
     <td>
-      <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f5d3a5cc-b879-4b39-b030-ff0f81ce2460" />
+      <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f5d3a5cc-b879-4b39-b030-ff0f81ce2460" />  
       LED chain
     </td>
     <td>
